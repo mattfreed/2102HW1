@@ -2,6 +2,7 @@
 HW 1 for  CS2102 (Object Oriented Design) Java
 
 Problem Statement:
+
 One popular event in the winter Olympics is the biathlon. In this competition, athletes participate in two events, cross-country skiing and shooting. In this program you'll model athletes competing in the biathlon. Your job will be to create the initial software to record athletesâ€™ results in these events and to provide methods that do some basic performance comparisons between individual athletes. Specifically, your tasks are as follows:
 1)Create an Athlete class with two fields: one holds a ShootingResult object and the other holds a SkiingResult object.
 2)The ShootingResult class holds four separate ShootingRound objects, one for each of four rounds (e.g., round1, round2, round3, and round4). Each ShootingRound stores the number of targets hit (out of five). Use int for this value. Assume that only valid numbers of targets hit will be created; you do not need to do any error checking at this point in the course.
